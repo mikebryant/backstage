@@ -1,5 +1,14 @@
 # example-backend
 
+## 0.2.83-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-scaffolder-backend@1.13.2-next.1
+  - example-app@0.2.83-next.1
+  - @backstage/plugin-scaffolder-backend-module-rails@0.4.14-next.1
+
 ## 0.2.83-next.0
 
 ### Patch Changes
